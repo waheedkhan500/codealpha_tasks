@@ -1,0 +1,15 @@
+body{
+    font-family: poppins;
+}
+.font-poppins{
+    font-family: poppins;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+#main{
+    height: calc(100vh - 150px);
+    
+}
